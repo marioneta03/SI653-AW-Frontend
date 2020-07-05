@@ -200,7 +200,7 @@ background: linear-gradient(90deg, rgba(255,226,119,1) 35%, rgba(0,212,255,1) 10
             border-radius: 5px;
         }
         #publish{
-            margin-left: 20px;
+            margin-left: 0px;
         }
     }
 </style>
