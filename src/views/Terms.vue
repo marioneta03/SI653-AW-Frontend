@@ -99,7 +99,7 @@ YOU ARE SOLELY RESPONSIBLE FOR YOUR INTERACTIONS WITH OTHER MEMBERS. YOU UNDERST
                         <h2 style="margin-top: 20px; margin-bottom: 5px">6. Rights that GoingTo grants
                                     you.</h2>
                         <h4 style="font-weight: normal">GoingTo grants you a personal, worldwide, royalty-free, non-assignable, nonexclusive, revocable, and non-sublicensable license to access and use the Service. This license is for the sole purpose of letting you use and enjoy the Service’s benefits as intended by GoingTo and permitted by this Agreement. Therefore, you agree not to:
-
+<ul>
     <li>use the Service or any content contained in the Service for any commercial purposes without our written consent.</li>
     <li>copy, modify, transmit, create any derivative works from, make use of, or reproduce in any way any copyrighted material, images, trademarks, trade names, service marks, or other intellectual property, content or proprietary information accessible through the Service without GoingTo’s prior written consent.</li>
     <li>express or imply that any statements you make are endorsed by GoingTo.</li>
@@ -114,7 +114,7 @@ YOU ARE SOLELY RESPONSIBLE FOR YOUR INTERACTIONS WITH OTHER MEMBERS. YOU UNDERST
     <li>use, access, or publish the GoingTo application programming interface without our written consent.</li>
     <li>probe, scan or test the vulnerability of our Service or any system or network.</li>
     <li>encourage or promote any activity that violates this Agreement.</li>
-
+</ul>
 The Company may investigate and take any available legal action in response to illegal and/ or unauthorized uses of the Service, including termination of your account.
 
 Any software that we provide you may automatically download and install upgrades, updates, or other new features. You may be able to adjust these automatic downloads through your device's settings.</h4>
@@ -135,7 +135,7 @@ Please be informed that GoingTo may access, store and disclose your account info
                         
                         <h2 style="margin-top: 20px; margin-bottom: 5px">8. 8. Community rules.</h2>
                         <h4 style="font-weight: normal">By using the Service, you agree that you will not:
-
+<ul>
     <li>use the Service for any purpose that is illegal or prohibited by this Agreement.</li>
     <li>use the Service for any harmful or nefarious purpose</li>
     <li>use the Service in order to damage GoingTo</li>
@@ -150,7 +150,7 @@ Please be informed that GoingTo may access, store and disclose your account info
     <li>solicit passwords for any purpose, or personal identifying information for commercial or unlawful purposes from other members or disseminate another person's personal information without his or her permission.</li>
     <li>use another member's account, share an account with another member, or maintain more than one account.</li>
     <li>create another account if we have already terminated your account, unless you have our permission.</li>
-
+</ul>
 GoingTo reserves the right to investigate and/ or terminate your account without a refund of any purchases if you have violated this Agreement, misused the Service or behaved in a way that GoingTo regards as inappropriate or unlawful, including actions or communications that occur on or off the Service.</h4>
                     </v-col>
                 </v-row>
