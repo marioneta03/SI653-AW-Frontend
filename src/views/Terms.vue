@@ -65,7 +65,7 @@
                             Services or by email. If you continue to use the Services after the changes take effect, you
                             understand that you accept the revised Agreement.</h4>
 
-                        <h2 style="margin-top: 20px; margin-bottom: 5px">1. Eligibility.</h2>
+                        <h2 style="margin-top: 20px; margin-bottom: 5px">2. Eligibility.</h2>
                         <h4 style="font-weight: normal">You must be at least 18 years old to create a GoingTo account
                             and use the Service. By creating an account and using the Service, you declare that:
 
